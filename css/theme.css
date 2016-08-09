@@ -1,0 +1,13 @@
+/* #nav{
+	position: static;
+} */
+#navbar .nav{
+	float: right;
+    color: blue;
+}
+.PThibodeau .navbar-brand{
+	font-size: 1.3em;
+}
+.PThibodeau body{
+	font-size: 1.4em;
+}
